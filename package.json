@@ -3,6 +3,16 @@
   "displayName": "Thai Lorem Ipsum",
   "description": "Generating Thai Dummy Words",
   "version": "0.0.1",
+  "publisher": "Phaicom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Phaicom/thai-lorem-ipsum"
+  },
+  "keywords": [
+    "thai lorem ipsum",
+    "lorem ipsum",
+    "dummy thai words"
+  ],
   "engines": {
     "vscode": "^1.51.0"
   },
