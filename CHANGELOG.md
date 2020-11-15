@@ -7,3 +7,7 @@
 ## 0.0.2
 
 - Using typescript to generate snippets
+
+## 0.0.3
+
+- Added LICENSE
