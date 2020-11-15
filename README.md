@@ -6,7 +6,7 @@ Support my coffee bill สนับสนุนค่ากาแฟเด็ก
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/reawpai)
 
-<img src="images/demo.gif">
+<img src="https://raw.githubusercontent.com/Phaicom/thai-lorem-ipsum/main/images/demo.gif" alt="demo thai lorem ipsum">
 
 ## Install
 
